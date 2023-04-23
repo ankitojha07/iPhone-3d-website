@@ -1,4 +1,4 @@
-# #D website created by Me!
+# 3D website created by Me!
 
 ### Tech Stack 
 - React JS
